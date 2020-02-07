@@ -1,0 +1,11 @@
+Arpeggio==1.9.2
+attrs==19.3.0
+dill==0.3.1.1
+grpcio==1.26.0
+parver==0.2.1
+protobuf==3.11.2
+pulumi==1.9.1
+pulumi-aws==1.20.0
+python-dotenv==0.10.5
+semver==2.9.0
+six==1.14.0

@@ -1,0 +1,2 @@
+#Avoid files in static folder to be consdier as tech stack language else it will take high %age in showing language bar
+**/static/* linguist-vendored
