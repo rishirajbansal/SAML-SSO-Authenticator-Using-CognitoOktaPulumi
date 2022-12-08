@@ -3,7 +3,7 @@ astroid==2.3.3
 attrs==19.3.0
 boto3==1.11.9
 botocore==1.14.9
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.13.2
 chardet==3.0.4
 colorama==0.4.3
